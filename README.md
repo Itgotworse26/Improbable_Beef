@@ -30,7 +30,7 @@ Also, I was able to add more information about the project as a few sentences on
               <p>
                   Our navels, or belly buttons, plays host to multitudes of bacteria, many which are still undocumented to this day <br><br>
                   The purpose of this project is to determine the types and populations of bacteria is living in our sample population's belly buttons. One day, we hope to find the silver bacteria that can synthesize the taste of beef.<br><br>
-                  What micro-organisms are in your belly button? As for our sample, come take a peek.
+                  What micro-organisms are in your belly button? If you're up for some navel-gazing, come take a look here.
               </p>
           </div>
       </div>
@@ -51,4 +51,4 @@ function changeChartVisibility(option) {
 }
 ```
 
-With the use of the getElementById method, I can toggle whether the chart is displayed on the page or not. 
+With the use of the getElementById method, I can toggle whether the chart is displayed on the page or not.
